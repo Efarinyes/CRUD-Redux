@@ -1,0 +1,59 @@
+{
+  "productes": [
+    {
+      "id": 1,
+      "nom": "Suc de Pastanaga",
+      "preu": "150"
+    },
+    {
+      "id": 2,
+      "nom": "Suc de Taronja",
+      "preu": "150"
+    },
+    {
+      "nom": "Suc de Llimona",
+      "preu": "150",
+      "id": 3
+    },
+    {
+      "nom": "Xoriço Gallec",
+      "preu": "30",
+      "id": 8
+    },
+    {
+      "nom": "wacamole",
+      "preu": "200",
+      "id": 9
+    },
+    {
+      "nom": "Xipirons amb salsa",
+      "preu": "45",
+      "id": 12
+    },
+    {
+      "nom": "Pollastre Rostit",
+      "preu": 25,
+      "id": 13
+    },
+    {
+      "nom": "Fricando Vedella",
+      "preu": 54,
+      "id": 14
+    },
+    {
+      "nom": "Caarne Mechada",
+      "preu": 200,
+      "id": 15
+    },
+    {
+      "nom": "Lluç de Palangre",
+      "preu": 30,
+      "id": 16
+    },
+    {
+      "nom": "Rap del Cantàbric",
+      "preu": 75,
+      "id": 17
+    }
+  ]
+}
